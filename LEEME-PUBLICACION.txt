@@ -1,0 +1,41 @@
+MICHA-DESIGN — VERSIÓN 34 / SERVICIOS EN HERO MÓVIL
+
+IMPORTANTE SOBRE LA LICENCIA DE LA TIPOGRAFÍA:
+- Esta maqueta incluye “Akira Expanded Demo” para que puedas revisar el resultado.
+- El autor indica que la versión demo es gratuita únicamente para uso personal.
+- Antes de publicar esta web con fines profesionales o comerciales, compra la licencia completa y sustituye el archivo demo por el archivo licenciado.
+- Licencia completa: https://creativemarket.com/typologic/4868098-Akira-Expanded
+
+Publicación en GitHub Pages:
+1. Sube el contenido de esta carpeta a la raíz del repositorio.
+2. Conserva exactamente las carpetas wp-content y wp-includes.
+3. En GitHub, abre Settings > Pages y publica la rama principal desde la carpeta raíz.
+
+Correcciones incluidas:
+- El botón "Ver proyectos" abre la sección correcta en móvil y en escritorio.
+- La mano de "¡Hola! Soy Micha" saluda cada 5 segundos.
+- La autoría, URL canónica y datos sociales pertenecen a Micha-Design.
+- Se eliminaron las referencias y archivos estáticos heredados del sitio anterior.
+- Se conservaron el carrusel móvil de tres proyectos y sus flechas de navegación.
+- Se restauraron localmente las animaciones de Impreza, GSAP y ScrollTrigger.
+- Se restauró Owl Carousel sin depender del dominio anterior.
+- Gompich y Cocinando con Itamae aparecen como proyectos publicados reales.
+- Se añadió la experiencia interactiva "MICHA": una estela de imágenes enmascarada dentro de las letras.
+- La experiencia responde al mouse únicamente en escritorio.
+- La animación se desactiva cuando el usuario solicita reducir movimiento.
+- Las tarjetas y el carrusel de proyectos originales no se sustituyen ni se eliminan.
+- La sección muestra únicamente MICHA: se retiraron el cuadro, el fondo, los títulos, los textos auxiliares y el símbolo ®.
+- MICHA ocupa prácticamente todo el ancho disponible, sin reservar el espacio que antes pertenecía al símbolo ®.
+- MICHA utiliza Akira Expanded Demo integrada localmente, con proporciones ajustadas para ocupar todo el ancho.
+- La estela interactiva de imágenes funciona únicamente en escritorio mediante el mouse.
+- En dispositivos móviles MICHA permanece estática, sin reproducción automática del efecto.
+- Se añadió una entrada de marca: MICHA se rellena en azul y la pantalla se abre verticalmente para revelar el hero.
+- La entrada dura aproximadamente un segundo y se muestra una sola vez por sesión.
+- La carga espera la fuente y el retrato principal, con un límite de seguridad para no bloquear la página.
+- En móviles se usa una variante más ligera y se respeta la preferencia de reducir movimiento.
+- El espacio inferior del hero móvil ahora muestra UI/UX, SEO local y Animaciones en tres columnas.
+- La franja móvil conserva los iconos circulares, divisores, textos y colores de la versión de escritorio.
+- El cambio se aplica únicamente a teléfonos; el hero de escritorio permanece intacto.
+
+URL configurada:
+https://jmicha0000.github.io/mi-web-oficial/
